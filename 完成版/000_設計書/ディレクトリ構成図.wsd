@@ -1,0 +1,23 @@
+@startsalt tree
+skinparam BackgroundColor transparent
+skinparam Handwritten True
+
+{
+    {T
+    + /
+    ++ cliapp.py
+    ++ booklet
+    +++ budgetbook.py
+    ++ cli
+    +++ budgetdisplay.py
+    +++ displaymanager.py
+    ++ db
+    +++ sql.py
+    ++ general
+    +++ bot.py
+
+
+    }
+}
+
+@endsalt
